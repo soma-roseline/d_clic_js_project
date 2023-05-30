@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    height: 150vh;
+    height: 110vh;
     background: #066acd;
 }
 .container{
@@ -24,6 +24,25 @@ body{
 header{
     background: url(femme-affaires-elegante-travaille-ordinateur-portable-dans-cafe-confortable-informations-claviers_273609-44481.jpg); height: 100px;
     height: 50vh;
+}
+
+p{
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 1.5em;
+}
+
+h1{
+    text-align: center;
+    
+    color: ;
+    padding-top: 250px;
+    padding-right: 25px;
+    text-decoration: dotted;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(199, 8, 8);
 }
 
 #newtask{
