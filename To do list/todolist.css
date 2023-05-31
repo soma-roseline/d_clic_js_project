@@ -42,6 +42,8 @@ h1{
 #newtask{
     position: relative;
     padding: 30px 20px;
+    background: brown;
+    border: solid 2px rgb(86, 86, 180);
 }
 #newtask input{
     width: 75%;
